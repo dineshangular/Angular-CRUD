@@ -1,0 +1,30 @@
+.container {
+    border: 5px solid lightseagreen;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+.table th {
+    background-color:#337ab7;
+    color: #fff;
+}
+.table td {
+    border:1px solid #ccc;
+}
+.table .btn {
+    width: 95px;
+    margin-left: 7px;
+    padding: 3px 10px;
+}
+.alert {
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+h3 {
+    margin: 10px 0px 0px 0px;
+}
+hr {
+    margin: 10px 0px;
+}
+h4 {
+    margin-top:0px;
+}
